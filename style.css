@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 50px;
+    background-color: #f4f4f4;
+}
+nav {
+    background: #ffea00;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+nav a {
+    color: rgb(255, 0, 234);
+    text-decoration: none;
+    margin-right: 15px;
+}
+h1 {
+    color: #301d37;
+}
